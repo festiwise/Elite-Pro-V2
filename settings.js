@@ -3,8 +3,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "254717296152"
-global.ownername = "Savage"
+global.ownernomer = "254706223783"
+global.ownername = "Tabby"
 global.ytname = "YT: ElitePro"
 global.socialm = "GitHub: elite-md"
 global.location = "Nigeria, Port Harcourt"
